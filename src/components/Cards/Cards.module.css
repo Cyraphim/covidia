@@ -1,0 +1,9 @@
+
+.container{
+    border-radius: 20px;
+    width:50%;
+    font-size:50px;
+    padding:20px;
+    background-color: rgb(0, 0, 0,0.5);
+    border-radius:20px;
+  }

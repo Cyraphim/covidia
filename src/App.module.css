@@ -1,0 +1,20 @@
+body {
+  font-family:"Bahnschrift Condensed";
+  color:white;
+  background: rgb(83,46,134);
+  background: linear-gradient(135deg, rgba(83,46,134,1) 0%, rgba(0,37,60,1) 100%);
+}
+
+.container
+{
+  padding:50px;
+  justify-content: center;
+}
+
+.card
+{
+  display: inline-block;
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+}
